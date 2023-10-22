@@ -21,7 +21,7 @@ Afficher les machines disponibles dans une salle spécifique.
 
 
 # Demo:
- ## ajout d'une Salle
+ ## L'ajout d'une Salle
  ![image](https://github.com/HIND20001/Rmi-Project-java/assets/86012128/7bb48cac-d3a3-4544-a76f-dc446c054a8b)
    ## modification d'une Salle
    ![Modif2 salle](https://github.com/HIND20001/Rmi-Project-java/assets/86012128/f5b90d80-1507-4ccb-a716-afb0ab96ce7d)
