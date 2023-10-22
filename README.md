@@ -15,7 +15,8 @@ Modifier une machine ou une salle existante.
 Supprimer une machine ou une salle.
 Afficher les machines disponibles dans une salle spécifique.
 
-![recherch2](https://github.com/HIND20001/Rmi-Project-java/assets/86012128/2cb74554-b4d9-478d-8eac-173082639340)
+![277124664-541bf031-b9cb-4b5a-a211-910c44204c77](https://github.com/HIND20001/Rmi-Project-java/assets/86012128/4cb2b6ed-5880-4352-b615-8cadf9372fd4)
+
 
 
 
