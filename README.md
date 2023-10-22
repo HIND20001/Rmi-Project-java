@@ -16,3 +16,4 @@ Supprimer une machine ou une salle.
 Afficher les machines disponibles dans une salle spécifique.
 
 # Demo:
+ ![ajout machine 1](https://github.com/HIND20001/Rmi-Project-java/assets/86012128/befef760-3f6c-4e5b-83cf-f8027d71cf05)
